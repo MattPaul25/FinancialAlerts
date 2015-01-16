@@ -1,0 +1,9 @@
+c:\users\matt\documents\visual studio 2013\Projects\FinancialAlerts\FinancialAlerts\bin\Debug\FinancialAlerts.exe.config
+c:\users\matt\documents\visual studio 2013\Projects\FinancialAlerts\FinancialAlerts\bin\Debug\FinancialAlerts.exe
+c:\users\matt\documents\visual studio 2013\Projects\FinancialAlerts\FinancialAlerts\bin\Debug\FinancialAlerts.pdb
+c:\users\matt\documents\visual studio 2013\Projects\FinancialAlerts\FinancialAlerts\obj\Debug\FinancialAlerts.csprojResolveAssemblyReference.cache
+c:\users\matt\documents\visual studio 2013\Projects\FinancialAlerts\FinancialAlerts\obj\Debug\FinancialAlerts.Form1.resources
+c:\users\matt\documents\visual studio 2013\Projects\FinancialAlerts\FinancialAlerts\obj\Debug\FinancialAlerts.Properties.Resources.resources
+c:\users\matt\documents\visual studio 2013\Projects\FinancialAlerts\FinancialAlerts\obj\Debug\FinancialAlerts.csproj.GenerateResource.Cache
+c:\users\matt\documents\visual studio 2013\Projects\FinancialAlerts\FinancialAlerts\obj\Debug\FinancialAlerts.exe
+c:\users\matt\documents\visual studio 2013\Projects\FinancialAlerts\FinancialAlerts\obj\Debug\FinancialAlerts.pdb
