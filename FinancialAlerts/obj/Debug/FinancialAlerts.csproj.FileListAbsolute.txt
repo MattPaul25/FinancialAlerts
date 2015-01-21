@@ -7,3 +7,12 @@ c:\users\matt\documents\visual studio 2013\Projects\FinancialAlerts\FinancialAle
 c:\users\matt\documents\visual studio 2013\Projects\FinancialAlerts\FinancialAlerts\obj\Debug\FinancialAlerts.csproj.GenerateResource.Cache
 c:\users\matt\documents\visual studio 2013\Projects\FinancialAlerts\FinancialAlerts\obj\Debug\FinancialAlerts.exe
 c:\users\matt\documents\visual studio 2013\Projects\FinancialAlerts\FinancialAlerts\obj\Debug\FinancialAlerts.pdb
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\FinancialAlerts\FinancialAlerts\bin\Debug\FinancialAlerts.exe.config
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\FinancialAlerts\FinancialAlerts\obj\Debug\FinancialAlerts.exe
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\FinancialAlerts\FinancialAlerts\obj\Debug\FinancialAlerts.pdb
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\FinancialAlerts\FinancialAlerts\bin\Debug\FinancialAlerts.exe
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\FinancialAlerts\FinancialAlerts\bin\Debug\FinancialAlerts.pdb
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\FinancialAlerts\FinancialAlerts\obj\Debug\FinancialAlerts.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\FinancialAlerts\FinancialAlerts\obj\Debug\FinancialAlerts.Form1.resources
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\FinancialAlerts\FinancialAlerts\obj\Debug\FinancialAlerts.Properties.Resources.resources
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\FinancialAlerts\FinancialAlerts\obj\Debug\FinancialAlerts.csproj.GenerateResource.Cache

@@ -12,6 +12,7 @@ namespace FinancialAlerts
 {
     class LookUp
     {
+        //new branch of fin alerts
         public LookUp (string myTicker, string startDate, string endDate)
         {
             string sDate = yahooDateParser(startDate);
